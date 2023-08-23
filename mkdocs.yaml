@@ -1,0 +1,10 @@
+site_name: Function Documentation
+repo_url: https://github.com/AvizNetworks/ones-pyapi
+
+theme:
+  name: readthedocs
+
+  nav: 
+    - Home: index.md
+    - function_1: function_1.md
+    - function_2: function_2.md
